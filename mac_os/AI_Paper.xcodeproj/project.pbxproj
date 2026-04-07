@@ -1,0 +1,28 @@
+{
+  "archiveVersion": "1",
+  "classes": {},
+  "objectVersion": "56",
+  "objects": {
+    "MAIN_APP_TARGET": {
+      "isa": "PBXNativeTarget",
+      "buildConfigurationList": "APP_CONFIG_LIST",
+      "buildPhases": ["SOURCES_PHASE", "FRAMEWORKS_PHASE", "RESOURCES_PHASE"],
+      "buildRules": [],
+      "dependencies": [],
+      "name": "AI_Paper",
+      "productName": "AI_Paper",
+      "productType": "com.apple.product-type.application"
+    },
+    "TEST_TARGET": {
+      "isa": "PBXNativeTarget",
+      "buildConfigurationList": "TEST_CONFIG_LIST",
+      "buildPhases": ["TEST_SOURCES_PHASE"],
+      "buildRules": [],
+      "dependencies": [],
+      "name": "AI_PaperTests",
+      "productName": "AI_PaperTests",
+      "productType": "com.apple.product-type.bundle.unit-test"
+    }
+  },
+  "rootObject": "PROJECT"
+}
