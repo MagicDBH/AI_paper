@@ -1,0 +1,1095 @@
+{
+  "builtTestProducts" : [
+    {
+      "binaryPath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageTests.xctest",
+      "packagePath" : "/home/runner/work/AI_paper/AI_paper/mac_os",
+      "productName" : "AI_PaperPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+    "AI_PaperPackageDiscoveredTests"
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.AI_Paper-x86_64-unknown-linux-gnu-debug.module" : {
+      "executable" : "/usr/share/swift/usr/bin/swiftc",
+      "fileList" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/sources",
+      "importPath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/AI_PaperApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Models/APIConfig.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Models/HistoryRecord.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Models/Paper.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Models/UsageStats.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Services/APIClient.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Services/ConfigManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Services/HistoryManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Services/StorageManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Utilities/Constants.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Utilities/Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Utilities/Helpers.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/AIReduceView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/APIConfigView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/CorrectionView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/HistoryView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/HomePageView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/PaperWriteView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/PlagiarismView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/PolishView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/swift-version--1BFCD5C06E9F820A.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "AI_Paper",
+      "moduleOutputPath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/Modules/AI_Paper.swiftmodule",
+      "objects" : [
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/AI_PaperApp.swift.o",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/ContentView.swift.o",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/APIConfig.swift.o",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/HistoryRecord.swift.o",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/Paper.swift.o",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/UsageStats.swift.o",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/APIClient.swift.o",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/ConfigManager.swift.o",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/HistoryManager.swift.o",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/StorageManager.swift.o",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/Constants.swift.o",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/Extensions.swift.o",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/Helpers.swift.o",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/AIReduceView.swift.o",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/APIConfigView.swift.o",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/CorrectionView.swift.o",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/HistoryView.swift.o",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/HomePageView.swift.o",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/PaperWriteView.swift.o",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/PlagiarismView.swift.o",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/PolishView.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-unknown-linux-gnu",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-j4",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "AI_Paper_main",
+        "-swift-version",
+        "5",
+        "-g",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "mac_os",
+        "-Xcc",
+        "-fno-omit-frame-pointer"
+      ],
+      "outputFileMapPath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/AI_PaperApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/APIConfig.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/HistoryRecord.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/Paper.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/UsageStats.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/APIClient.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/ConfigManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/HistoryManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/StorageManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/Constants.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/Extensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/Helpers.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/AIReduceView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/APIConfigView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/CorrectionView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/HistoryView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/HomePageView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/PaperWriteView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/PlagiarismView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/PolishView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/Modules/AI_Paper.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/AI_PaperApp.swift",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/ContentView.swift",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Models/APIConfig.swift",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Models/HistoryRecord.swift",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Models/Paper.swift",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Models/UsageStats.swift",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Services/APIClient.swift",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Services/ConfigManager.swift",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Services/HistoryManager.swift",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Services/StorageManager.swift",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Utilities/Constants.swift",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Utilities/Extensions.swift",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Utilities/Helpers.swift",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/AIReduceView.swift",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/APIConfigView.swift",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/CorrectionView.swift",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/HistoryView.swift",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/HomePageView.swift",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/PaperWriteView.swift",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/PlagiarismView.swift",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/PolishView.swift"
+      ],
+      "tempsPath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.AI_PaperPackageDiscoveredTests-x86_64-unknown-linux-gnu-debug.module" : {
+      "executable" : "/usr/share/swift/usr/bin/swiftc",
+      "fileList" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.build/sources",
+      "importPath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.derived/AI_PaperTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.derived/all-discovered-tests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/swift-version--1BFCD5C06E9F820A.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/Modules/AI_PaperTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "AI_PaperPackageDiscoveredTests",
+      "moduleOutputPath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/Modules/AI_PaperPackageDiscoveredTests.swiftmodule",
+      "objects" : [
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.build/AI_PaperTests.swift.o",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.build/all-discovered-tests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-unknown-linux-gnu",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j4",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.build/include/AI_PaperPackageDiscoveredTests-Swift.h",
+        "-g",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "mac_os",
+        "-Xcc",
+        "-fno-omit-frame-pointer"
+      ],
+      "outputFileMapPath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.build/AI_PaperTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.build/all-discovered-tests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/Modules/AI_PaperPackageDiscoveredTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.derived/AI_PaperTests.swift",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.derived/all-discovered-tests.swift"
+      ],
+      "tempsPath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.AI_PaperPackageTests-x86_64-unknown-linux-gnu-debug.module" : {
+      "executable" : "/usr/share/swift/usr/bin/swiftc",
+      "fileList" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageTests.build/sources",
+      "importPath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageTests.derived/runner.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/swift-version--1BFCD5C06E9F820A.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/Modules/AI_PaperTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/Modules/AI_PaperPackageDiscoveredTests.swiftmodule"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "AI_PaperPackageTests",
+      "moduleOutputPath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/Modules/AI_PaperPackageTests.swiftmodule",
+      "objects" : [
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageTests.build/runner.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-unknown-linux-gnu",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j4",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-emit-objc-header",
+        "-emit-objc-header-path",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageTests.build/include/AI_PaperPackageTests-Swift.h",
+        "-g",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "mac_os",
+        "-Xcc",
+        "-fno-omit-frame-pointer"
+      ],
+      "outputFileMapPath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/Modules/AI_PaperPackageTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageTests.derived/runner.swift"
+      ],
+      "tempsPath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageTests.build",
+      "wholeModuleOptimization" : false
+    },
+    "C.AI_PaperTests-x86_64-unknown-linux-gnu-debug.module" : {
+      "executable" : "/usr/share/swift/usr/bin/swiftc",
+      "fileList" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperTests.build/sources",
+      "importPath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_PaperTests/AI_PaperTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/swift-version--1BFCD5C06E9F820A.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperTests.build/sources"
+        }
+      ],
+      "isLibrary" : true,
+      "moduleName" : "AI_PaperTests",
+      "moduleOutputPath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/Modules/AI_PaperTests.swiftmodule",
+      "objects" : [
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperTests.build/AI_PaperTests.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "x86_64-unknown-linux-gnu",
+        "-incremental",
+        "-enable-batch-mode",
+        "-serialize-diagnostics",
+        "-index-store-path",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/index/store",
+        "-Onone",
+        "-enable-testing",
+        "-Xfrontend",
+        "-enable-cross-import-overlays",
+        "-j4",
+        "-DSWIFT_PACKAGE",
+        "-DDEBUG",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-module-cache-path",
+        "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/ModuleCache",
+        "-parseable-output",
+        "-parse-as-library",
+        "-swift-version",
+        "5",
+        "-g",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "mac_os",
+        "-Xcc",
+        "-fno-omit-frame-pointer"
+      ],
+      "outputFileMapPath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperTests.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperTests.build/AI_PaperTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/Modules/AI_PaperTests.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/home/runner/work/AI_paper/AI_paper/mac_os/AI_PaperTests/AI_PaperTests.swift"
+      ],
+      "tempsPath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperTests.build",
+      "wholeModuleOptimization" : false
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "AI_Paper" : [
+      "/usr/share/swift/usr/bin/swiftc",
+      "-module-name",
+      "AI_Paper",
+      "-package-name",
+      "mac_os",
+      "-c",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/AI_PaperApp.swift",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/ContentView.swift",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Models/APIConfig.swift",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Models/HistoryRecord.swift",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Models/Paper.swift",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Models/UsageStats.swift",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Services/APIClient.swift",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Services/ConfigManager.swift",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Services/HistoryManager.swift",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Services/StorageManager.swift",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Utilities/Constants.swift",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Utilities/Extensions.swift",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Utilities/Helpers.swift",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/AIReduceView.swift",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/APIConfigView.swift",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/CorrectionView.swift",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/HistoryView.swift",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/HomePageView.swift",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/PaperWriteView.swift",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/PlagiarismView.swift",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/PolishView.swift",
+      "-I",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/Modules",
+      "-target",
+      "x86_64-unknown-linux-gnu",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-j4",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "AI_Paper_main",
+      "-swift-version",
+      "5",
+      "-g",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "mac_os",
+      "-Xcc",
+      "-fno-omit-frame-pointer",
+      "-driver-use-frontend-path",
+      "/usr/share/swift/usr/bin/swiftc"
+    ],
+    "AI_PaperPackageDiscoveredTests" : [
+      "/usr/share/swift/usr/bin/swiftc",
+      "-module-name",
+      "AI_PaperPackageDiscoveredTests",
+      "-package-name",
+      "mac_os",
+      "-c",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.derived/AI_PaperTests.swift",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.derived/all-discovered-tests.swift",
+      "-I",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/Modules",
+      "-target",
+      "x86_64-unknown-linux-gnu",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j4",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.build/include/AI_PaperPackageDiscoveredTests-Swift.h",
+      "-g",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "mac_os",
+      "-Xcc",
+      "-fno-omit-frame-pointer",
+      "-driver-use-frontend-path",
+      "/usr/share/swift/usr/bin/swiftc"
+    ],
+    "AI_PaperPackageTests" : [
+      "/usr/share/swift/usr/bin/swiftc",
+      "-module-name",
+      "AI_PaperPackageTests",
+      "-package-name",
+      "mac_os",
+      "-c",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageTests.derived/runner.swift",
+      "-I",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/Modules",
+      "-target",
+      "x86_64-unknown-linux-gnu",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j4",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-emit-objc-header",
+      "-emit-objc-header-path",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageTests.build/include/AI_PaperPackageTests-Swift.h",
+      "-g",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "mac_os",
+      "-Xcc",
+      "-fno-omit-frame-pointer",
+      "-driver-use-frontend-path",
+      "/usr/share/swift/usr/bin/swiftc"
+    ],
+    "AI_PaperTests" : [
+      "/usr/share/swift/usr/bin/swiftc",
+      "-module-name",
+      "AI_PaperTests",
+      "-package-name",
+      "mac_os",
+      "-c",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/AI_PaperTests/AI_PaperTests.swift",
+      "-I",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/Modules",
+      "-target",
+      "x86_64-unknown-linux-gnu",
+      "-incremental",
+      "-enable-batch-mode",
+      "-serialize-diagnostics",
+      "-index-store-path",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/index/store",
+      "-Onone",
+      "-enable-testing",
+      "-Xfrontend",
+      "-enable-cross-import-overlays",
+      "-j4",
+      "-DSWIFT_PACKAGE",
+      "-DDEBUG",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-module-cache-path",
+      "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/ModuleCache",
+      "-parseable-output",
+      "-parse-as-library",
+      "-swift-version",
+      "5",
+      "-g",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "mac_os",
+      "-Xcc",
+      "-fno-omit-frame-pointer",
+      "-driver-use-frontend-path",
+      "/usr/share/swift/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "AI_Paper" : [
+
+    ],
+    "AI_PaperPackageDiscoveredTests" : [
+      "AI_PaperTests"
+    ],
+    "AI_PaperPackageTests" : [
+      "AI_PaperPackageDiscoveredTests",
+      "AI_PaperTests"
+    ],
+    "AI_PaperTests" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+    "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.derived/all-discovered-tests.swift" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperTests.build/AI_PaperTests.swift.o"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.derived/AI_PaperTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.derived/all-discovered-tests.swift"
+        }
+      ]
+    }
+  },
+  "testEntryPointCommands" : {
+    "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageTests.derived/runner.swift" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/Modules/AI_PaperPackageDiscoveredTests.swiftmodule"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageTests.derived/runner.swift"
+        }
+      ]
+    }
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/AI_PaperApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Models/APIConfig.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Models/HistoryRecord.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Models/Paper.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Models/UsageStats.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Services/APIClient.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Services/ConfigManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Services/HistoryManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Services/StorageManager.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Utilities/Constants.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Utilities/Extensions.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Utilities/Helpers.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/AIReduceView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/APIConfigView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/CorrectionView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/HistoryView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/HomePageView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/PaperWriteView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/PlagiarismView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_Paper/Views/PolishView.swift"
+        }
+      ],
+      "outputFilePath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/sources"
+    },
+    "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/AIReduceView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/AI_Paper.swiftmodule.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/AI_PaperApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/APIClient.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/APIConfig.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/APIConfigView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/ConfigManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/Constants.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/CorrectionView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/Extensions.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/Helpers.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/HistoryManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/HistoryRecord.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/HistoryView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/HomePageView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/Paper.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/PaperWriteView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/PlagiarismView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/PolishView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/StorageManager.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.build/UsageStats.swift.o"
+        }
+      ],
+      "outputFilePath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_Paper.product/Objects.LinkFileList"
+    },
+    "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.derived/AI_PaperTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.derived/all-discovered-tests.swift"
+        }
+      ],
+      "outputFilePath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.build/sources"
+    },
+    "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageTests.derived/runner.swift"
+        }
+      ],
+      "outputFilePath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageTests.build/sources"
+    },
+    "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageTests.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.build/AI_PaperPackageDiscoveredTests.swiftmodule.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.build/AI_PaperTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageDiscoveredTests.build/all-discovered-tests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageTests.build/AI_PaperPackageTests.swiftmodule.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageTests.build/runner.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperTests.build/AI_PaperTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperTests.build/AI_PaperTests.swiftmodule.o"
+        }
+      ],
+      "outputFilePath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperPackageTests.product/Objects.LinkFileList"
+    },
+    "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperTests.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/home/runner/work/AI_paper/AI_paper/mac_os/AI_PaperTests/AI_PaperTests.swift"
+        }
+      ],
+      "outputFilePath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/AI_PaperTests.build/sources"
+    },
+    "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/swift-version--1BFCD5C06E9F820A.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/usr/share/swift/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/home/runner/work/AI_paper/AI_paper/mac_os/.build/x86_64-unknown-linux-gnu/debug/swift-version--1BFCD5C06E9F820A.txt"
+    }
+  }
+}
